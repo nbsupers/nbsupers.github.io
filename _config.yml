@@ -1,7 +1,7 @@
 
 markdown: kramdown
 
-theme:github-light
+theme: jekyll-theme-midnight
 tracking_id: #
 
 sass:
