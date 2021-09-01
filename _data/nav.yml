@@ -1,0 +1,8 @@
+- name: "Project"
+  link: "project"
+
+- name: "Publication"
+  link: "publication"
+
+- name: "About"
+  link: "/"
