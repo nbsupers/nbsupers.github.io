@@ -1,6 +1,7 @@
 
 markdown: kramdown
 
+theme:github-light
 tracking_id: #
 
 sass:
